@@ -1,0 +1,2 @@
+[2018-04-22T18:42:42.673] [INFO] access - ::1 - - "GET / HTTP/1.1" 200 1396 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+[2018-04-22T18:42:43.061] [ERROR] access - ::1 - - "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
